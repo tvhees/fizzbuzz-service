@@ -1,0 +1,10 @@
+[
+    {
+        "key": "spec:default",
+        "value": {
+            "Fizz": 3,
+            "Buzz": 5
+        },
+        "label1": "default"
+    }
+]
